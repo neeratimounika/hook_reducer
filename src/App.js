@@ -1,12 +1,15 @@
 import React from 'react'
-import CounterTwo from './components/CounterTwo'
+import CounterThree from './components/CounterThree'
+// import CounterTwo from './components/CounterTwo'
 // import CounterOne from './components/CounterOne'
+
 
 const App = () => {
   return (
     <div>
       {/* <CounterOne/> */}
-      <CounterTwo/>
+      {/* <CounterTwo/> */}
+      <CounterThree/>
     </div>
   )
 }
